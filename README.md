@@ -53,4 +53,5 @@ Take the first step towards modernizing your development workflow by implementin
 
 ## [Github](https://github.com/momin4930)
 ## [Linkedin](https://www.linkedin.com/in/sanaullah-momin-71b774309/)
+## [Medium](https://medium.com/@sanaullahmomin111)
 ## Email: sanaullahmomin111@gmail.com
