@@ -38,6 +38,12 @@ If you haven’t tried Docker BuildKit yet, it’s time to enable it and start o
 
 Whether you’re working on edge computing projects, IoT apps, or seeking a more manageable Kubernetes solution for development and testing environments, K3s delivers the power of Kubernetes in a compact package. As you consider your container orchestration needs, evaluate the benefits of K3s and determine if its simplified approach aligns with your project requirements and operational goals.
 
+## [Blog 3: How to Dockerize a React App: A Step-by-Step Guide](https://medium.com/@sanaullahmomin111/how-to-dockerize-a-react-app-a-step-by-step-guide-3d74a676dc9f)
+
+Successfully containerizing a React application with Docker streamlines development, ensures consistency across environments, and simplifies deployment processes. By following the steps outlined in this guide — from creating a Dockerfile to optimizing for production — you can create a reliable and portable React application environment.
+
+Take the first step towards modernizing your development workflow by implementing Docker in your React projects today.
+
 # Projects Deployed
 
 ## [Portfolio](https://momins-portfolio.netlify.app/)
